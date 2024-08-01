@@ -12,7 +12,7 @@ This repository contains the source code for my personal portfolio website with 
 
 ## Live Demo
 
-You can view the live demo of the celestial-themed portfolio website here: [Live Demo URL]
+You can view the live demo of the celestial-themed portfolio website here: [https://celestial-portfolio.vercel.app/]
 
 ## Technologies Used
 
@@ -34,11 +34,11 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/celestial-portfolio-website.git
+   git clone https://github.com/shannonsequeira/celestial-portfolio.git
    ```
 2. **Navigate to the Project Directory**
     ```sh
-    cd celestial-portfolio-website
+    cd celestial-portfolio
     ```
 3. **Open `index.html` in Your Browser**
     - Simply open the index.html file in your preferred web browser to view the website locally.
@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 ## Directory Structure
 
 ```sh
-my-portfolio/
+celestial-portfolio/
 ├── index.html
 ├── styles/
 │   └── style.css
