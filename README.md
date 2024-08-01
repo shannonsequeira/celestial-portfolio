@@ -12,7 +12,7 @@ This repository contains the source code for my personal portfolio website with 
 
 ## Live Demo
 
-You can view the live demo of the celestial-themed portfolio website here: [https://celestial-portfolio.vercel.app/]
+You can view the live demo of the celestial-themed portfolio website here: https://celestial-portfolio.vercel.app/
 
 ## Technologies Used
 
